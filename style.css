@@ -1,0 +1,102 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+#para1,
+#para2,
+#para3,
+#para4 {
+    background-color: black;
+    background-color: ;
+    color: aliceblue;
+    font-size: large;
+}
+
+.o {
+    position: relative;
+    text-align: center;
+    padding: 10px;
+    left: 500px;
+    top: 300px;
+    width: 250px;
+    height: 40px;
+    background-color: rgb(0, 2, 2);
+    color: white;
+    font-family: ;
+
+}
+
+#a {
+    background-image: url(./demon_slayer_inosuke_hashibira_tanjirou_kamado_zenitsu_agatsuma_hd_anime.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 700px;
+    width: 100%;
+}
+
+#aa {
+    background-image: url(./j.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 700px;
+    width: 100%;
+}
+
+#aaa {
+    background-image: url(./m.png);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 700px;
+    width: 100%;
+}
+
+#aaaa {
+    background-image: url(./Death-Note.webp);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 700px;
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header {
+    background-color: #291d6e;
+    display: flex;
+    color: white;
+    padding : 10px 30px 10px 30px;
+
+
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #291d6e;
+    overflow: hidden;
+    padding-left: 700px;
+  
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 8px 24px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+  }
+  
